@@ -1,5 +1,6 @@
 # leetcode-every-day-auto-push
 leetcode每日一题推送
+配置流程如下：
 把文件上传到服务器并配置定时任务**
 
  - 确保crontab的安装详细可查看这篇博客（[crontab安装及操作](https://blog.csdn.net/hukai0q/article/details/83380951)）
@@ -10,4 +11,7 @@ leetcode每日一题推送
              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    如：**00  8 * * * /usr/bin/python /root/download/init.py** （每天早上8点运行脚本）
  - 查看任务列表：crontab -l
+ 
+ 
+
 （[详细内容可看我的博客](https://blog.csdn.net/malloc_can/article/details/113004579)）
