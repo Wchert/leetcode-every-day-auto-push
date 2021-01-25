@@ -10,3 +10,4 @@ leetcode每日一题推送
              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    如：**00  8 * * * /usr/bin/python /root/download/init.py** （每天早上8点运行脚本）
  - 查看任务列表：crontab -l
+（[详细内容可看我的博客](https://blog.csdn.net/malloc_can/article/details/113004579)）
